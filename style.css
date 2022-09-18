@@ -70,4 +70,8 @@ body {
   font-size: 18px;
   font-weight: 600;
   cursor: pointer;
+  transition: 0.5s;
+}
+.card button:hover {
+  background-color: #aa0000;
 }
