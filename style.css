@@ -32,3 +32,30 @@ body {
 .card:hover .card-img img {
   height: 240px;
 }
+
+.card .card-title h3 {
+  color: #1b2430;
+  font-size: 28px;
+  letter-spacing: -0.5px;
+}
+
+.card .card-title p {
+  color: #b3bac3;
+  font-size: 18px;
+  margin-top: -4px;
+  letter-spacing: -0.5px;
+}
+.card .card-details {
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 0;
+}
+.card .card-details span {
+  color: #b3bac3;
+  font-size: 16px;
+}
+.card .card-details p {
+  color: #1b2430;
+  font-size: 20px;
+  font-weight: 700;
+}
