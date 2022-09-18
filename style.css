@@ -20,4 +20,15 @@ body {
 }
 .card .card-img {
   width: 100%;
+  text-align: center;
+}
+.card .card-img img {
+  height: 200px;
+  margin: -150px 0 15px 0;
+  filter: drop-shadow(0 8px 8px #cdd5e2);
+  transition: 0.3s;
+}
+
+.card:hover .card-img img {
+  height: 240px;
 }
