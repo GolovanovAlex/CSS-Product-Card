@@ -1,4 +1,4 @@
-# CSS-Product-Card
+# CSS Product Card
 
 ### Use Skills
 
@@ -7,7 +7,7 @@
 
 ---
 
-[Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/MWXEgNX)
+[Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/OJEOqKj)
 
 ![image](readme/gif.webp)
 
